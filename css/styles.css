@@ -1,0 +1,32 @@
+.panel-heading{
+  font-weight: bold;
+  font-style: italic;
+}
+.panel-heading:hover{
+  text-decoration: underline;
+  color: #ff9898;
+}
+#javascript-hidden{
+  display: none;
+}
+#operators-hidden{
+  display: none;
+}
+#variables-hidden{
+  display: none;
+}
+#functions-hidden{
+  display: none;
+}
+#methods-hidden{
+  display: none;
+}
+#arguments-hidden{
+  display: none;
+}
+#parameters-hidden{
+  display: none;
+}
+#jquery-hidden{
+  display: none;
+}

@@ -1,0 +1,26 @@
+$(document).ready(function() {
+  $(".javascript").click(function(){
+    $("#javascript-hidden").fadeToggle();
+  });
+  $(".operators").click(function(){
+    $("#operators-hidden").fadeToggle();
+  });
+  $(".variables").click(function(){
+    $("#variables-hidden").fadeToggle();
+  });
+  $(".functions").click(function(){
+    $("#functions-hidden").fadeToggle();
+  });
+  $(".methods").click(function(){
+    $("#methods-hidden").fadeToggle();
+  });
+  $(".arguments").click(function(){
+    $("#arguments-hidden").fadeToggle();
+  });
+  $(".parameters").click(function(){
+    $("#parameters-hidden").fadeToggle();
+  });
+  $(".jquery").click(function(){
+    $("#jquery-hidden").fadeToggle();
+  });
+});
